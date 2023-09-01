@@ -1,0 +1,95 @@
+.emoji{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.face{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(252, 127, 196);
+}
+.eye1{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 140px;
+}
+.eyeball1{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 140px;
+    margin-top: 159px;
+}
+.eye2{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 290px;
+    margin-top: 140px;
+}
+.eyeball2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 310px;
+    margin-top: 159px;
+}
+.nose{
+    width: 180px;
+    height: 96px;
+    position: absolute;
+    border-radius: 40px 40px 40px 40px;
+    background-color: red;
+    margin-left: 160px;
+    margin-top: 290px;
+}
+.noseball1{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black ;
+    margin-left: 40px;
+    margin-top: 28px;
+}
+.noseball2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black ;
+    margin-left: 100px;
+    margin-top: 28px;
+}
+.ear1{
+    width: 135px;
+    height: 180px;
+    position: absolute;
+    border-radius: 600px 600px 0px 20px;
+    background-color: yellowgreen;
+    margin-left: 40px;
+    margin-top: -50px;
+    z-index: -1;
+}
+.ear2{
+    width: 135px;
+    height: 180px;
+    position: absolute;
+    border-radius: 600px 600px 0px 20px;
+    background-color: yellowgreen;
+    margin-left: 325px;
+    margin-top: -50px;
+    z-index: -1;
+}
